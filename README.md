@@ -53,7 +53,7 @@ font = "sans serif"
 
 ### 1️⃣ Cloner le dépôt
 ```bash
-git clone https://github.com/<ton_nom_utilisateur>/mon-assistante-grossesse.git
+git clone https://github.com/beautiful-Maddy/Mon-Assistante-de-Grossesse.git
 cd mon-assistante-grossesse
 ```
 
@@ -139,3 +139,4 @@ La vidéo présente :
 ---
 
 💗 *“Mon Assistante de Grossesse” — Un projet bienveillant pour accompagner les futures mamans, pas à pas.*
+
